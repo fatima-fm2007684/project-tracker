@@ -1,12 +1,14 @@
 # Project Tracker
 
-A simple project and tasks management app built with React
+An intuitive project management tool designed to help users organize projects and tasks app.
+**Live Demo:** https://project-tracker-ruby-mu.vercel.app/
 
 ## Features
 
-- Add, delete, and manage multiple projects
-- Create and complete tasks under each project
+- Add, delete, and manage multiple projects and tasks within a project
+- Toggle completion status for tasks and projects
 - Light/Dark mode toggle
+- Responsive design
 
 ## Tech Used:
 
@@ -15,11 +17,25 @@ A simple project and tasks management app built with React
 - HTML5
 - CSS3
 
-[View Project Tracker Live](https://project-tracker-ruby-mu.vercel.app/)
-
 ## Getting Started
+
+1. **Clone the repo**
+
+```bash
+git clone https://github.com/fatima-fm2007684/project-tracker
+
+```
+
+2. **Install dependencies**
 
 ```bash
 npm install
+
+```
+
+3. **Start the development server**
+
+```bash
 npm run dev
+
 ```
